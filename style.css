@@ -5,7 +5,7 @@ body{
 div.contenedor{
   width: 90%;
   max-width: 566px;
-  background: #000;
+  background: green;
   padding: 5px;
   margin: auto;
   border-radius: 5px;
@@ -17,6 +17,7 @@ div{
   border: 2px solid #000;
   margin: 0 2px;
   padding: 10px 0px;
+  font-weight: bold;
 }
 
 div.contenedor{
