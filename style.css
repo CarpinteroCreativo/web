@@ -19,7 +19,15 @@ div{
   padding: 10px 0px;
   font-weight: bold;
 }
-
+.mora{
+  color:red;
+}
+.abono{
+  color:blue;
+}
+.monto{
+  color:yellow;
+}
 div.contenedor{
   display: grid;
   grid-template-columns: 50% 50% 
