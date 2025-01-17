@@ -7,7 +7,7 @@ let deudaInicial = 20000;
 document.querySelector("#sInicial").innerHTML = deudaInicial;
 
 //Abonos.
-let abonado = 6500;
+let abonado = 7000;
 document.querySelector("#abonado").innerHTML = abonado;
 
 //Saldo Actual
